@@ -1,0 +1,10 @@
+/Users/TungNS/Projects/Login/Login/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/TungNS/Projects/Login/Login/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/TungNS/Projects/Login/Login/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/TungNS/Projects/Login/Login/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/TungNS/Projects/Login/Login/obj/iPhone/Debug/build-iphone7.2-10.0.1/optimized/
+/Users/TungNS/Projects/Login/Login/bin/iPhone/Debug/Login.exe.mdb
+/Users/TungNS/Projects/Login/Login/bin/iPhone/Debug/Login.exe
+/Users/TungNS/Projects/Login/Login/obj/iPhone/Debug/Login.exe
+/Users/TungNS/Projects/Login/Login/obj/iPhone/Debug/Login.exe.mdb
+/Users/TungNS/Projects/Login/Login/bin/iPhone/Debug/Facebook.dll

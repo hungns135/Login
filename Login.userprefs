@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2818494D-32CA-489C-B8DB-308CAAF54645}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
+    <Files>
+      <File FileName="NextScreenController.cs" Line="12" Column="6" />
+      <File FileName="AppDelegate.cs" Line="34" Column="32" />
+      <File FileName="Main.cs" Line="16" Column="1" />
+      <File FileName="ViewController.cs" Line="102" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Login" expanded="True">
+            <Node name="Login" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Login PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.90A73F6A-A5E4-4F6A-976B-232A10FF3198" />
+</Properties>

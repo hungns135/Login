@@ -1,0 +1,10 @@
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/optimized/
+/Users/hungnguyen/Desktop/Login/Login/bin/iPhoneSimulator/Debug/Login.exe.mdb
+/Users/hungnguyen/Desktop/Login/Login/bin/iPhoneSimulator/Debug/Login.exe
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/Login.exe
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/Login.exe.mdb
+/Users/hungnguyen/Desktop/Login/Login/bin/iPhoneSimulator/Debug/Facebook.dll

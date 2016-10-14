@@ -1,0 +1,8 @@
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Facebook.dll
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Login.exe
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/hungnguyen/Desktop/Login/Login/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
